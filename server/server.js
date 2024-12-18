@@ -41,6 +41,6 @@ server.get("/users", (req, res) => {
 });
 
 server.listen(3000, () =>
-  console.log("Running server on https://localhost:3000")
+  console.log("Running server on http://localhost:3000")
 );
 

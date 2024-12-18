@@ -1,0 +1,23 @@
+.userbox {
+    border: 10px solid #FFC0CB;
+    background-color: #D8BFD8;
+    width: 200px;
+    padding: 100px;
+    margin: 200px;
+    margin-top: 50px;
+    border-radius: 60px;
+    font-size: larger;
+    line-height: 2;
+}
+
+#rubrik {
+    padding-left: 250px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#FFC0CB
+    
+}
+
+.body {
+    background-color:azure;
+}
+
